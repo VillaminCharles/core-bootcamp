@@ -1,0 +1,24 @@
+{
+    "name": "SAFESERVE",
+    "description": "GRADWAITING",
+    "symbol": "SS",
+    "image": "https://i.imgur.com/7HqVz9M.png",
+    "attributes": [
+        {
+            "trait_type": "logo",
+            "value": "1OF1"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "ss.logo"
+        }
+    ]
+}
